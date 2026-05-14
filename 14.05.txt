@@ -1,0 +1,94 @@
+Run
+Simple Present: I run in the park every morning.
+Present Continuous: I am running in the park now.
+Question: Am I running in the park now?
+
+Swim
+Simple Present: I swim in the club every weekend.
+Present Continuous: I am swimming in the club now.
+Question: Am I swimming in the club now?
+
+Sit
+Simple Present: I sit near the teacher in class.
+Present Continuous: I am sitting near the teacher now.
+Question: Am I sitting near the teacher now?
+
+Stop
+Simple Present: I stop the music at night.
+Present Continuous: I am stopping the music now.
+Question: Am I stopping the music now?
+
+Plan
+Simple Present: I plan my homework every afternoon.
+Present Continuous: I am planning my homework now.
+Question: Am I planning my homework now?
+
+Travel
+Simple Present: I travel with my family in July.
+Present Continuous: I am traveling with my family now.
+Question: Am I traveling with my family now?
+
+Dance
+Simple Present: I dance with my friends at parties.
+Present Continuous: I am dancing with my friends now.
+Question: Am I dancing with my friends now?
+
+Write
+Simple Present: I write stories in my notebook.
+Present Continuous: I am writing stories now.
+Question: Am I writing stories now?
+
+Make
+Simple Present: I make breakfast every morning.
+Present Continuous: I am making breakfast now.
+Question: Am I making breakfast now?
+
+Drive
+Simple Present: I drive to school every day.
+Present Continuous: I am driving to school now.
+Question: Am I driving to school now?
+
+Take
+Simple Present: I take the bus to school every day.
+Present Continuous: I am taking the bus now.
+Question: Am I taking the bus now?
+
+Move
+Simple Present: I move the chairs before class.
+Present Continuous: I am moving the chairs now.
+Question: Am I moving the chairs now?
+
+Lie
+Simple Present: I lie on the sofa after school.
+Present Continuous: I am lying on the sofa now.
+Question: Am I lying on the sofa now?
+
+Get
+Simple Present: I get home at 6 p.m. every day.
+Present Continuous: I am getting home now.
+Question: Am I getting home now?
+
+Shop
+Simple Present: I shop for clothes on weekends.
+Present Continuous: I am shopping for clothes now.
+Question: Am I shopping for clothes now?
+
+Begin
+Simple Present: I begin my homework after dinner.
+Present Continuous: I am beginning my homework now.
+Question: Am I beginning my homework now?
+
+Forget
+Simple Present: I forget my keys sometimes.
+Present Continuous: I am forgetting my keys again.
+Question: Am I forgetting my keys again?
+
+Use
+Simple Present: I use my computer for homework.
+Present Continuous: I am using my computer now.
+Question: Am I using my computer now?
+
+Live
+Simple Present: I live in Novo Hamburgo with my family.
+Present Continuous: I am living in Novo Hamburgo now.
+Question: Am I living in Novo Hamburgo now?
